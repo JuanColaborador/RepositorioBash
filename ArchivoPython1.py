@@ -27,3 +27,4 @@ print(f"El tipo de edad es: {type(edad).__name__}")
 print(f"El tipo de altura es: {type(altura).__name__}")
 print(f"El tipo de es_estudiante es: {type(es_estudiante).__name__}")
 
+print("Agregado por colaborador")
